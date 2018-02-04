@@ -17,7 +17,7 @@ of particular games and players.
 ![Alt text](preview_images/team-pick.png?raw=true "Team pick")
 
 #### Drag & Drop player
-![Alt text](preview_images/drag-drop.png?raw=true "Drag & Drop player")
+![Alt text](preview_images/drag-drop-player.png?raw=true "Drag & Drop player")
 
 #### Jersey color selection
 ![Alt text](preview_images/jersey-color.png?raw=true "Jersey color selection")
